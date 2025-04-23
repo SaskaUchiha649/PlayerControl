@@ -3,7 +3,7 @@ using UnityEngine.UIElements;
 
 public class PropellerSpin : MonoBehaviour
 {
-    private float rotationSpeed = 20.0f;
+    private float rotationSpeed = 20000000000000000.0f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
